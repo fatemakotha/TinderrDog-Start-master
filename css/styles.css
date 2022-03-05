@@ -50,3 +50,9 @@ h1 {
 .download-button {
   margin: 5% 3% 5% 0;
 }
+/* IMAGE */
+.doggo {
+  width: 60%;
+  margin-left: 400px;
+  margin-top: -380px;
+}
