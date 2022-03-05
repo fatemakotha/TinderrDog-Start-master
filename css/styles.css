@@ -23,3 +23,13 @@ h1 {
 .navbar {
   background-color: #ff4c68;
 }
+.title {
+  font-family: "Montserrat";
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: 400;
+}
