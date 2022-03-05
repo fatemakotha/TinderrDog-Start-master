@@ -10,6 +10,7 @@ h1 {
   font-size: 3rem;
   line-height: 1.5;
   color: white;
+  font-weight: bold;
 }
 .btn-light {
   background-color: #ff4c68;
