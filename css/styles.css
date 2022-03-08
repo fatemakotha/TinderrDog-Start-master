@@ -80,3 +80,6 @@ p {
 .icon {
   color: #ef8172;
 }
+.icon:hover {
+  color: #ff4c68;
+}
