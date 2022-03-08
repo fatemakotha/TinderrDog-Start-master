@@ -66,3 +66,6 @@ h1 {
   margin-top: -380px;
   transform: rotate(25deg);
 }
+.feature-box {
+  text-align: center;
+}
