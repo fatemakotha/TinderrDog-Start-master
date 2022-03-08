@@ -13,6 +13,9 @@ h1 {
   color: white;
   font-weight: bold;
 }
+h3 {
+  font-family: "Montserrat-Bold"
+}
 
 .btn-light {
   background-color: #ff4c68;
@@ -69,4 +72,5 @@ h1 {
 .feature-box {
   text-align: center;
   padding: 5%;
+
 }
