@@ -83,3 +83,8 @@ p {
 .icon:hover {
   color: #ff4c68;
 }
+/* Testimonials Section */
+#testimonials {
+  /* 7% top and bottom, 15% left and right */
+  padding: 7% 15%;
+}
