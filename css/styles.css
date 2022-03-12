@@ -13,6 +13,10 @@ h1 {
   color: white;
   font-weight: bold;
 }
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+}
 h3 {
   font-family: "Montserrat-Bold"
 }
@@ -90,4 +94,5 @@ p {
   text-align: center;
   background-color: #ef8172;
   color: #fff;
+
 }
