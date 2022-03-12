@@ -109,4 +109,6 @@ p {
 }
 .press-image {
   width: 15%;
+  /* margin of 20px top, 15px left-right, 50px bottom */
+  margin: 20px 20px 50px;
 }
