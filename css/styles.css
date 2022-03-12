@@ -87,4 +87,5 @@ p {
 #testimonials {
   /* 7% top and bottom, 15% left and right */
   padding: 7% 15%;
+  text-align: center;
 }
