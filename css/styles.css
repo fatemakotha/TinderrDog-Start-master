@@ -93,7 +93,7 @@ p {
 #features {
   padding: 7% 15%;
   background-color: #fff;
-  position: absolute;
+  position: relative;
   z-index: 1;
 }
 
