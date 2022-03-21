@@ -125,3 +125,6 @@ p {
   padding: 3% 2%;
   text-align: center;
 }
+.pricing-title {
+  background-color: grey;
+}
