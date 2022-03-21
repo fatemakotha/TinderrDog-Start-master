@@ -59,6 +59,9 @@ p {
   padding-bottom: 4.5rem;
 }
 
+#navbarTogglerDemo02.cpd.collapse.navbar-collapse {
+  margin-left: 100px;
+}
 .navbar-brand {
   font-family: "Ubuntu";
   font-size: 2.5rem;
@@ -82,10 +85,11 @@ p {
 /* IMAGE */
 .doggo {
   width: 20%;
-  margin-left: 550px;
+  margin-left: 800px;
   margin-top: -310px;
   transform: rotate(25deg);
   position: absolute;
+
 }
 
 /* FEATURE SECTION */
