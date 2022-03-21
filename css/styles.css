@@ -25,6 +25,11 @@ p {
   color: grey;
 }
 
+.heading {
+  margin-left: 150px;
+}
+
+
 .btn-light {
   background-color: #ff4c68;
 }
