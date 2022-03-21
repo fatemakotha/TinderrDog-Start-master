@@ -85,8 +85,12 @@ p {
   margin-left: 550px;
   margin-top: -310px;
   transform: rotate(25deg);
-}
 
+}
+/* FEATURE SECTION */
+#features {
+  padding: 7% 15%;
+}
 .feature-box {
   text-align: center;
   padding: 5%;
