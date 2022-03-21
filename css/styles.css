@@ -13,14 +13,17 @@ h1 {
   color: white;
   font-weight: bold;
 }
+
 h2 {
   font-family: "Montserrat-Bold";
   font-size: 1.5rem;
   line-height: 1.5;
 }
+
 h3 {
   font-family: "Montserrat-Bold"
 }
+
 p {
   color: grey;
 }
@@ -29,7 +32,6 @@ p {
   margin-left: 150px;
   padding-top: 60px;
 }
-
 
 .btn-light {
   background-color: #ff4c68;
@@ -83,35 +85,37 @@ p {
   margin-left: 550px;
   margin-top: -310px;
   transform: rotate(25deg);
-
 }
+
 .feature-box {
   text-align: center;
   padding: 5%;
-
 }
+
 .icon {
   color: #ef8172;
 }
+
 .icon:hover {
   color: #ff4c68;
 }
+
 /* Testimonials Section */
 #testimonials {
   /* 7% top and bottom, 15% left and right */
-
   text-align: center;
   background-color: #ef8172;
   color: #fff;
-
 }
+
 .testimonial-image {
   width: 10%;
   border-radius: 100%;
   margin: 20px;
 }
+
 .carousel-item {
-    padding: 7% 15%;
+  padding: 7% 15%;
 }
 
 #press {
@@ -119,6 +123,7 @@ p {
   text-align: center;
   padding-bottom: 3%;
 }
+
 .press-image {
   width: 15%;
   /* margin of 20px top, 15px left-right, 50px bottom */
@@ -129,20 +134,19 @@ p {
 #pricing {
   padding: 100px;
 }
+
 .pricing-column {
   padding: 3% 2%;
   text-align: center;
 }
-.pricing-title {
 
-margin: 0;
-padding: 0;
-width: 100%;
+.pricing-title {
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
+
 .card-header {
   padding: 0.75rem 1.25rem;
-
   border-bottom: 1px solid #e5e5e5;
-
-
 }
