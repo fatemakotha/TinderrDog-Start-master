@@ -74,8 +74,9 @@ p {
 .doggo {
   width: 20%;
   margin-left: 450px;
-  margin-top: -380px;
+  margin-top: -250px;
   transform: rotate(25deg);
+
 }
 .feature-box {
   text-align: center;
@@ -126,7 +127,7 @@ p {
   text-align: center;
 }
 .pricing-title {
-  
+
 margin: 0;
 padding: 0;
 width: 100%;
