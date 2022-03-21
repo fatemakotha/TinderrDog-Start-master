@@ -90,7 +90,7 @@ p {
   margin-left: 800px;
   margin-top: -310px;
   transform: rotate(25deg);
-  position: absolute;
+
 }
 
 /* FEATURE SECTION */
@@ -170,7 +170,7 @@ p {
 .cta-heading {
   font-family: "Montserrat-Black";
   font-size: 3.5rem;
-  line-height: 1rem;
+  line-height: 4rem;
 }
 @media (max-width: 1028px) {
   .title-image {
