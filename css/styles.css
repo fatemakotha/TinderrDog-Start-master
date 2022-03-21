@@ -127,4 +127,10 @@ p {
 }
 .pricing-title {
   background-color: grey;
+
+
+}
+.card-header {
+margin: 0;
+padding: 0;
 }
