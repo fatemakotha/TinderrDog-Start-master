@@ -160,12 +160,21 @@ p {
   width: 100%;
 }
 
+
+/* CTA SECTION */
+#cta {
+  background-color: #ff4c68;
+}
+
+
 @media (max-width: 1028px) {
 .title-image {
   position: static;
   transform: rotate(0);
 }
-
+#title {
+  text-align: center;
+}
 }
 
 .card-header {
