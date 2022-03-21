@@ -85,6 +85,8 @@ p {
   margin-left: 550px;
   margin-top: -310px;
   transform: rotate(25deg);
+  z-index: -1;
+  position: absolute;
 }
 
 /* FEATURE SECTION */
