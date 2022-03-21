@@ -85,7 +85,6 @@ p {
   margin-left: 550px;
   margin-top: -310px;
   transform: rotate(25deg);
-
   position: absolute;
 }
 
@@ -94,7 +93,6 @@ p {
   padding: 7% 15%;
   background-color: #fff;
   position: relative;
-
 }
 
 .feature-box {
