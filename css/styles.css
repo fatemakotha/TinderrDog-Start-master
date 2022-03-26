@@ -172,6 +172,11 @@ p {
   font-size: 3.5rem;
   line-height: 4rem;
 }
+
+.google-button {
+  background-color: #fff;
+  color: Black;
+}
 @media (max-width: 1028px) {
   .title-image {
     position: static;
