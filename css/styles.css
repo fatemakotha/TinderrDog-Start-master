@@ -172,7 +172,9 @@ p {
   font-size: 3.5rem;
   line-height: 4rem;
 }
-
+.apple-button {
+  margin-left: 380px;
+}
 .google-button {
   background-color: #fff;
   color: Black;
