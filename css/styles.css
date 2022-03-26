@@ -180,6 +180,10 @@ p {
   background-color: #fff;
   color: Black;
 }
+/* FOOTER SECTION */
+#footer {
+  padding: 7% 15%;
+}
 @media (max-width: 1028px) {
   .title-image {
     position: static;
