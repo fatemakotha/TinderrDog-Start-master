@@ -7,8 +7,9 @@ body {
   font-family: "Montserrat";
   text-align: center;
 }
-#title.container-fluid { <!-- for the container-fluid class that is inside the tile title section, then apply the following-->
-  padding: 3% 15% 7%;
+
+#title.container-fluid {
+  < !-- for the container-fluid class that is inside the tile title section, then apply the following-->padding: 3% 15% 7%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,10 +28,12 @@ p {
   color: white;
   font-weight: bold;
 }
+
 .sec-heading {
   font-size: 2.5rem;
   line-height: 3rem;
 }
+
 .heading {
   margin-left: 150px;
   padding-top: 60px;
@@ -93,7 +96,6 @@ p {
   margin-left: 800px;
   margin-top: -310px;
   transform: rotate(25deg);
-
 }
 
 /* FEATURE SECTION */
@@ -102,9 +104,11 @@ p {
   background-color: #fff;
   position: relative;
 }
+
 .feature-title {
   font-size: 2rem;
 }
+
 .feature-box {
   text-align: center;
   padding: 5%;
@@ -168,6 +172,7 @@ p {
   font-size: 3rem;
   line-height: 1.5
 }
+
 /* CTA SECTION */
 #cta {
   background-color: #ff4c68;
@@ -182,13 +187,14 @@ p {
   line-height: 4rem;
   text-align: center;
 }
-.apple-button {
 
-}
+.apple-button {}
+
 .google-button {
   background-color: #fff;
   color: Black;
 }
+
 /* FOOTER SECTION */
 #footer {
   padding: 7% 15%;
@@ -198,6 +204,7 @@ p {
 .footer-icon {
   margin: 20px 10px;
 }
+
 @media (max-width: 1028px) {
   .title-image {
     position: static;
