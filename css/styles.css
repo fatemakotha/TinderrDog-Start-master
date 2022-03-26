@@ -1,7 +1,9 @@
 #title {
   background-color: #ff4c68;
 }
-
+body {
+  font-family: "Montserrat";
+}
 .container-fluid {
   padding: 3% 15% 7%;
 }
