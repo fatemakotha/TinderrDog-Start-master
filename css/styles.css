@@ -20,8 +20,28 @@ p {
   < !-- for the container-fluid class that is inside the tile title section, then apply the following-->padding: 3% 15% 7%;
 }
 
+/* NAVBAR */
+.navbar {
+  background-color: #ff4c68;
+  margin-left: 135px;
+  color: #ff4c68;
+}
 
-/*HEADINGS*/
+/* NAVBAR TOGGLER */
+
+/* CPD */
+
+/* NAV ITEM */
+
+/* NAV LINK */
+
+/* HEADING */
+.heading {
+  margin-left: 150px;
+  padding-top: 60px;
+  color: white;
+}
+/* BIG HEADING */
 .big-heading {
   font-family: "Montserrat-Black";
   font-size: 3.5rem;
@@ -30,27 +50,23 @@ p {
   font-weight: bold;
 }
 
+/* BTM */
+
+
+/*HEADINGS*/
+
 .sec-heading {
   font-size: 2.5rem;
   line-height: 3rem;
 }
 
-.heading {
-  margin-left: 150px;
-  padding-top: 60px;
-  color: white;
-}
+
 
 .btn-light {
   background-color: #ff4c68;
 }
 
 
-.navbar {
-  background-color: #ff4c68;
-  margin-left: 135px;
-  color: #ff4c68;
-}
 
 .title {
   font-family: "Montserrat";
