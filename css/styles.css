@@ -20,6 +20,11 @@ p {
   < !-- for the container-fluid class that is inside the tile title section, then apply the following-->padding: 3% 15% 7%;
 }
 
+
+.title {
+  font-family: "Montserrat";
+}
+
 /* NAVBAR */
 .navbar {
   background-color: #ff4c68;
@@ -52,6 +57,15 @@ p {
 
 /* BTN */
 
+.btn-light {
+  background-color: #ff4c68;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
 /* DOGGO */
 
 /* FEATURES */
@@ -64,6 +78,32 @@ p {
 
 /* FEATURE TITLE */
 
+/* TESTIMONIALS */
+
+/* carouselExampleControls */
+
+/* carousel-inner */
+
+/* carousel-item */
+
+/* testimonial-text */
+
+/* testimonial-image */
+
+/* press */
+
+/* press-image */
+
+/* pricing */
+
+/* sec-heading */
+
+
+
+
+
+
+
 
 
 .sec-heading {
@@ -73,15 +113,7 @@ p {
 
 
 
-.btn-light {
-  background-color: #ff4c68;
-}
 
-
-
-.title {
-  font-family: "Montserrat";
-}
 
 /* Navigation Bar */
 .navbar {
@@ -107,10 +139,6 @@ p {
   font-family: "Montserrat-light";
 }
 
-/* DOWNLOAD BUTTONS */
-.download-button {
-  margin: 5% 3% 5% 0;
-}
 
 /* IMAGE */
 .doggo {
