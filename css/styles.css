@@ -116,13 +116,38 @@ background-color: #fff;
 /* testimonial-image */
 
 /* press */
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
 
-/* press-image */
+.press-image {
+  width: 15%;
+  /* margin of 20px top, 15px left-right, 50px bottom */
+  margin: 20px 20px 50px;
+}
 
-/* pricing */
+/* PRICING SECTION */
+#pricing {
+  padding: 100px;
+}
 
-/* sec-heading */
+.pricing-column {
+  padding: 3% 2%;
+  text-align: center;
+}
 
+.pricing-title {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.pricing-text {
+  font-size: 3rem;
+  line-height: 1.5
+}
 
 
 
@@ -189,43 +214,15 @@ background-color: #fff;
   border-radius: 100%;
   margin: 20px;
 }
-
+.testimonial-text {
+  color: #fff;
+}
 .carousel-item {
   padding: 7% 15%;
 }
 
-#press {
-  background-color: #ef8172;
-  text-align: center;
-  padding-bottom: 3%;
-}
 
-.press-image {
-  width: 15%;
-  /* margin of 20px top, 15px left-right, 50px bottom */
-  margin: 20px 20px 50px;
-}
 
-/* PRICING SECTION */
-#pricing {
-  padding: 100px;
-}
-
-.pricing-column {
-  padding: 3% 2%;
-  text-align: center;
-}
-
-.pricing-title {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-}
-
-.pricing-text {
-  font-size: 3rem;
-  line-height: 1.5
-}
 
 /* CTA SECTION */
 #cta {
