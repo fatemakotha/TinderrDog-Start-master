@@ -1,15 +1,6 @@
-#title {
-  background-color: #ff4c68;
-  text-align: left;
-}
-
 body {
   font-family: "Montserrat";
   text-align: center;
-}
-
-#title.container-fluid {
-  < !-- for the container-fluid class that is inside the tile title section, then apply the following-->padding: 3% 15% 7%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,6 +10,16 @@ h1, h2, h3, h4, h5, h6 {
 p {
   color: grey;
 }
+
+#title {
+  background-color: #ff4c68;
+  text-align: left;
+}
+
+#title.container-fluid {
+  < !-- for the container-fluid class that is inside the tile title section, then apply the following-->padding: 3% 15% 7%;
+}
+
 
 /*HEADINGS*/
 .big-heading {
