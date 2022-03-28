@@ -12,6 +12,10 @@ p {
 }
 
 #title {
+  text-align: center;
+}
+
+#title {
   background-color: #ff4c68;
   text-align: left;
 }
@@ -92,6 +96,12 @@ background-color: #fff;
 
 
 /* DOGGO */
+.doggo {
+  width: 20%;
+  margin-left: 800px;
+  margin-top: -310px;
+  transform: rotate(25deg);
+}
 
 /* FEATURES */
 
@@ -169,12 +179,6 @@ background-color: #fff;
 
 
 /* IMAGE */
-.doggo {
-  width: 20%;
-  margin-left: 800px;
-  margin-top: -310px;
-  transform: rotate(25deg);
-}
 
 /* FEATURE SECTION */
 #features {
@@ -262,10 +266,7 @@ background-color: #fff;
     transform: rotate(0);
   }
 
-  #title {
-    text-align: center;
-  }
-}
+
 
 .card-header {
   padding: 0.75rem 1.25rem;
