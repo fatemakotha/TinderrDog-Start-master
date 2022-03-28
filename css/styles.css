@@ -43,15 +43,27 @@ background-color: #fff;
   background-color: #ff4c68;
   margin-left: 135px;
   color: #ff4c68;
+    padding-bottom: 4.5rem;
 }
 
-/* NAVBAR TOGGLER */
+.navbar-nav {
+  margin-right: 150px;
+}
 
-/* CPD */
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: 400;
+}
 
-/* NAV ITEM */
+.nav-item {
+  padding: 0 18px;
+}
 
-/* NAV LINK */
+.nav.link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
 
 /* HEADING */
 .heading {
@@ -129,28 +141,6 @@ background-color: #fff;
 
 
 /* Navigation Bar */
-.navbar {
-  padding-bottom: 4.5rem;
-}
-
-.navbar-nav {
-  margin-right: 150px;
-}
-
-.navbar-brand {
-  font-family: "Ubuntu";
-  font-size: 2.5rem;
-  font-weight: 400;
-}
-
-.nav-item {
-  padding: 0 18px;
-}
-
-.nav.link {
-  font-size: 1.2rem;
-  font-family: "Montserrat-light";
-}
 
 
 /* IMAGE */
